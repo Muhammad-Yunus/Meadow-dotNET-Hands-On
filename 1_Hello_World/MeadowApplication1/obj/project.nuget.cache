@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hc8L5qIobiovZAv/80G4J34YY/Wqz3hP+URC6R7w4cQHIJ7aEvbfXXDzewl38FnaNZDX0kuIfP80g4JPIIiGtA==",
+  "success": true,
+  "projectFilePath": "D:\\DOCUMENT_BCK\\GitHub\\Meadow-dotNET-Hands-On\\1_Hello_World\\MeadowApplication1\\MeadowApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow\\0.28.0\\meadow.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.contracts\\0.28.0\\meadow.contracts.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.f7\\0.28.0\\meadow.f7.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.foundation\\0.30.0\\meadow.foundation.0.30.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.units\\0.28.0\\meadow.units.0.28.0.nupkg.sha512"
+  ],
+  "logs": []
+}
