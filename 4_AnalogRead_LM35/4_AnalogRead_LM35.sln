@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_AnalogRead_LM35", "4_AnalogRead_LM35\4_AnalogRead_LM35.csproj", "{049873E7-02D7-463A-8C9C-AD048156C93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{049873E7-02D7-463A-8C9C-AD048156C93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049873E7-02D7-463A-8C9C-AD048156C93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049873E7-02D7-463A-8C9C-AD048156C93D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{049873E7-02D7-463A-8C9C-AD048156C93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049873E7-02D7-463A-8C9C-AD048156C93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{049873E7-02D7-463A-8C9C-AD048156C93D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA23612E-C243-430F-9C10-B6A1926C7FA4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gqU8t+WLz6ToMaX/UUupoCUTWtihPhOB3CXBY8w5jFBseVvAzxQJa9I5m/abU4axAI4bgUqyPMGXBk8DBXqG+Q==",
+  "success": true,
+  "projectFilePath": "D:\\DOCUMENT_BCK\\GitHub\\Meadow-dotNET-Hands-On\\4_AnalogRead_LM35\\4_AnalogRead_LM35\\4_AnalogRead_LM35.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow\\0.28.0\\meadow.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.contracts\\0.28.0\\meadow.contracts.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.f7\\0.28.0\\meadow.f7.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.foundation\\0.30.0\\meadow.foundation.0.30.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.units\\0.28.0\\meadow.units.0.28.0.nupkg.sha512"
+  ],
+  "logs": []
+}
