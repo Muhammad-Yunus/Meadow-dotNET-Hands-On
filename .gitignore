@@ -1,4 +1,4 @@
-obj/*
-bin/*
-Properties/*
-.vs/*
+**obj
+**bin/Debug
+**Properties
+**.vs
