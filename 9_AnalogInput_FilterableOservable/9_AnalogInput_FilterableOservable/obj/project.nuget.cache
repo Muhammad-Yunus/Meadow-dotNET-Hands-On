@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XmWflWIxaWjaDw7eeH9ZbsWxSFKRjzl6FFYY0yOCzD5LjU68U0d7vlVW2PPn5B20/Bj4U3Hi8HeOCizN40LTew==",
+  "success": true,
+  "projectFilePath": "D:\\DOCUMENT_BCK\\GitHub\\Meadow-dotNET-Hands-On\\9_AnalogInput_FilterableOservable\\9_AnalogInput_FilterableOservable\\9_AnalogInput_FilterableOservable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow\\0.28.0\\meadow.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.contracts\\0.28.0\\meadow.contracts.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.f7\\0.28.0\\meadow.f7.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.foundation\\0.30.0\\meadow.foundation.0.30.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.units\\0.28.0\\meadow.units.0.28.0.nupkg.sha512"
+  ],
+  "logs": []
+}

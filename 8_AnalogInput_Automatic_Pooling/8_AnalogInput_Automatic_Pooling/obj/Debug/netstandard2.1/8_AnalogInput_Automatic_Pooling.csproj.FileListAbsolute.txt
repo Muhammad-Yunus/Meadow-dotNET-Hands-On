@@ -1,0 +1,14 @@
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\bin\Debug\netstandard2.1\App.deps.json
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\bin\Debug\netstandard2.1\App.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\bin\Debug\netstandard2.1\App.pdb
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\bin\Debug\netstandard2.1\Meadow.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\bin\Debug\netstandard2.1\Meadow.Contracts.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\bin\Debug\netstandard2.1\Meadow.F7.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\bin\Debug\netstandard2.1\Meadow.Foundation.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\bin\Debug\netstandard2.1\Meadow.Units.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\obj\Debug\netstandard2.1\8_AnalogInput_Automatic_Pooling.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\obj\Debug\netstandard2.1\8_AnalogInput_Automatic_Pooling.AssemblyInfoInputs.cache
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\obj\Debug\netstandard2.1\8_AnalogInput_Automatic_Pooling.AssemblyInfo.cs
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\obj\Debug\netstandard2.1\8_AnalogInput_Automatic_Pooling.csproj.CoreCompileInputs.cache
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\obj\Debug\netstandard2.1\App.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\8_AnalogInput_Automatic_Pooling\8_AnalogInput_Automatic_Pooling\obj\Debug\netstandard2.1\App.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sK2NU00YtJW+QysDAWZQtLHVQR7NgV4Kdxyy0Ruoq+FjDfKk+y7ICwJ2xYO4WNxl7nRw+Ujkxss4Tlf76uBG6g==",
+  "success": true,
+  "projectFilePath": "D:\\DOCUMENT_BCK\\GitHub\\Meadow-dotNET-Hands-On\\7_AnalogRead_Voltage\\7_AnalogRead_Voltage\\7_AnalogRead_Voltage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow\\0.28.0\\meadow.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.contracts\\0.28.0\\meadow.contracts.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.f7\\0.28.0\\meadow.f7.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.foundation\\0.30.0\\meadow.foundation.0.30.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.units\\0.28.0\\meadow.units.0.28.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\bin\Debug\netstandard2.1\App.deps.json
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\bin\Debug\netstandard2.1\App.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\bin\Debug\netstandard2.1\App.pdb
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\bin\Debug\netstandard2.1\Meadow.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\bin\Debug\netstandard2.1\Meadow.Contracts.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\bin\Debug\netstandard2.1\Meadow.F7.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\bin\Debug\netstandard2.1\Meadow.Foundation.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\bin\Debug\netstandard2.1\Meadow.Units.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\obj\Debug\netstandard2.1\7_AnalogRead_Voltage.csproj.AssemblyReference.cache
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\obj\Debug\netstandard2.1\7_AnalogRead_Voltage.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\obj\Debug\netstandard2.1\7_AnalogRead_Voltage.AssemblyInfoInputs.cache
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\obj\Debug\netstandard2.1\7_AnalogRead_Voltage.AssemblyInfo.cs
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\obj\Debug\netstandard2.1\7_AnalogRead_Voltage.csproj.CoreCompileInputs.cache
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\obj\Debug\netstandard2.1\App.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\7_AnalogRead_Voltage\7_AnalogRead_Voltage\obj\Debug\netstandard2.1\App.pdb

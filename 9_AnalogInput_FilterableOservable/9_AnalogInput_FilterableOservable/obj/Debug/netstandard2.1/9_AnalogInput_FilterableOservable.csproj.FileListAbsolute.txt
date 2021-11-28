@@ -1,0 +1,15 @@
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\bin\Debug\netstandard2.1\App.deps.json
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\bin\Debug\netstandard2.1\App.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\bin\Debug\netstandard2.1\App.pdb
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\bin\Debug\netstandard2.1\Meadow.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\bin\Debug\netstandard2.1\Meadow.Contracts.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\bin\Debug\netstandard2.1\Meadow.F7.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\bin\Debug\netstandard2.1\Meadow.Foundation.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\bin\Debug\netstandard2.1\Meadow.Units.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\obj\Debug\netstandard2.1\9_AnalogInput_FilterableOservable.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\obj\Debug\netstandard2.1\9_AnalogInput_FilterableOservable.AssemblyInfoInputs.cache
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\obj\Debug\netstandard2.1\9_AnalogInput_FilterableOservable.AssemblyInfo.cs
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\obj\Debug\netstandard2.1\9_AnalogInput_FilterableOservable.csproj.CoreCompileInputs.cache
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\obj\Debug\netstandard2.1\9_AnalogInput_FilterableOservable.csproj.CopyComplete
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\obj\Debug\netstandard2.1\App.dll
+D:\DOCUMENT_BCK\GitHub\Meadow-dotNET-Hands-On\9_AnalogInput_FilterableOservable\9_AnalogInput_FilterableOservable\obj\Debug\netstandard2.1\App.pdb
