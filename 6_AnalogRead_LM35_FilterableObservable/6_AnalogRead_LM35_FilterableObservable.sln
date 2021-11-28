@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_AnalogRead_LM35_FilterableObservable", "6_AnalogRead_LM35_FilterableObservable\6_AnalogRead_LM35_FilterableObservable.csproj", "{F461F3C0-C209-4014-BCCE-EE897B2591C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F461F3C0-C209-4014-BCCE-EE897B2591C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F461F3C0-C209-4014-BCCE-EE897B2591C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F461F3C0-C209-4014-BCCE-EE897B2591C2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F461F3C0-C209-4014-BCCE-EE897B2591C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F461F3C0-C209-4014-BCCE-EE897B2591C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F461F3C0-C209-4014-BCCE-EE897B2591C2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACB9A9E8-31FF-48C0-A74A-59F30E239B65}
+	EndGlobalSection
+EndGlobal

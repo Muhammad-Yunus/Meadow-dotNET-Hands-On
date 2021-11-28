@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LQcFKeMAr2Dv1H0qn9JzAkfQK5TqInIXGxB0fy7TjPgktmPoJmfBlfmIZl2YtEwVecMBpqRI5s8B/nhklwm/eg==",
+  "success": true,
+  "projectFilePath": "D:\\DOCUMENT_BCK\\GitHub\\Meadow-dotNET-Hands-On\\6_AnalogRead_LM35_FilterableObservable\\6_AnalogRead_LM35_FilterableObservable\\6_AnalogRead_LM35_FilterableObservable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow\\0.28.0\\meadow.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.contracts\\0.28.0\\meadow.contracts.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.f7\\0.28.0\\meadow.f7.0.28.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.foundation\\0.30.0\\meadow.foundation.0.30.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\meadow.units\\0.28.0\\meadow.units.0.28.0.nupkg.sha512"
+  ],
+  "logs": []
+}
