@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_Fading_LED_Foundation_PWM_using_Button_Interrupt", "18_Fading_LED_Foundation_PWM_using_Button_Interrupt\18_Fading_LED_Foundation_PWM_using_Button_Interrupt.csproj", "{BFB8FEA0-9631-4784-9561-3AEDB2C95637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFB8FEA0-9631-4784-9561-3AEDB2C95637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB8FEA0-9631-4784-9561-3AEDB2C95637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB8FEA0-9631-4784-9561-3AEDB2C95637}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BFB8FEA0-9631-4784-9561-3AEDB2C95637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB8FEA0-9631-4784-9561-3AEDB2C95637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB8FEA0-9631-4784-9561-3AEDB2C95637}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15CCBD20-0742-4F49-98F6-C8F917684A57}
+	EndGlobalSection
+EndGlobal
