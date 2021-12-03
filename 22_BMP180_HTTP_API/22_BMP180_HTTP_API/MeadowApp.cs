@@ -26,10 +26,10 @@ namespace _22_BMP180_HTTP_API
                     name = "Sensor Node 001",
                     device_no = "150001",
                     temperature = (double) conditions.Result.Temperature?.Celsius,
-                    pressure = (double) conditions.Result.Pressure?.Psi
+                    pressure = (double) conditions.Result.Pressure?.Pascal / 1000.0
                 };
                 var stringPayload = JsonConvert.SerializeObject(payload);
-                HttpPost("http://192.168.0.126:5000/api/v1/dummy/post", stringPayload).Wait();
+                HttpPost("http://192.168.0.126:5000/api/v1/bmp180/post", stringPayload).Wait();
                 Thread.Sleep(5000);
             }
             while (true);
@@ -42,7 +42,13 @@ namespace _22_BMP180_HTTP_API
             Console.WriteLine("Initialize hardware...");
             // configure our sensor on the I2C Bus
             sensor = new Bmp180(Device.CreateI2cBus());
+            sensor.Updated += (sender, result) =>
+            {
+                Console.WriteLine($"  Temperature: {result.New.Temperature?.Celsius:N2}C");
+                Console.WriteLine($"  Pressure: {result.New.Pressure?.Pascal/1000.0:N2}kpa");
+            };
 
+            sensor.StartUpdating(TimeSpan.FromSeconds(10));
             // connected event test.
             Device.WiFiAdapter.WiFiConnected += WiFiAdapter_ConnectionCompleted;
 
