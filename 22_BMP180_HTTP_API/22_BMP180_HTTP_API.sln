@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_BMP180_HTTP_API", "22_BMP180_HTTP_API\22_BMP180_HTTP_API.csproj", "{ADB1DE80-20E0-4814-AE73-94AC196A0603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB1DE80-20E0-4814-AE73-94AC196A0603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB1DE80-20E0-4814-AE73-94AC196A0603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB1DE80-20E0-4814-AE73-94AC196A0603}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ADB1DE80-20E0-4814-AE73-94AC196A0603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB1DE80-20E0-4814-AE73-94AC196A0603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB1DE80-20E0-4814-AE73-94AC196A0603}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91A42F53-53CF-446F-BB2C-329F9A457345}
+	EndGlobalSection
+EndGlobal
